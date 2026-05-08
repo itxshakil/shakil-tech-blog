@@ -1,5 +1,6 @@
 ---
 title: "How We Implemented Content Security Policy (CSP) in Our Laravel App "
+seoDescription: "A real-world guide to adding Content Security Policy to Laravel — nonce generation, Vite integration, violation reporting, and deploying without break"
 datePublished: 2026-05-08T13:23:41.220Z
 cuid: cmowy4ie5001z2em7hepx8947
 slug: how-we-implemented-content-security-policy-csp-in-our-laravel-app
